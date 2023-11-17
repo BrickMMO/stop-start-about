@@ -1,12 +1,12 @@
-# colours-about
+# stop-start-about
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-This website provides tools related to the official LEGO® colour palette.
+This website provides a simple stop-start-continue style survey to collect feedabckk from BrickMMO participants.
 
-On the front-end the colours project will allow the user to browse the LEGO® colour palette, search for LEGO® colours using colour keywords and convert existing colours from text, CMYK, or RGB to the LEGO® colour palette.
+On the front-end the Stop-Start project will allow the participants to choose the class they are enrolled in and then submit text answers to a stop, start, continue style survey. Responses are saved in the database and viewable by logging into a console.
 
-- [BrickMMO Stop-Start](https://colours.brickmmo.com)
+- [BrickMMO Stop-Start](https://stopstart.brickmmo.com)
 
 ## [Version 1 - Rough Draft](v1)
 
