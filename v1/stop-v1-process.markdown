@@ -142,15 +142,32 @@ CREATE TABLE `classes` (
 
 9. **Console**
 
-10. **Manage Classes**
+    You can copy the login process from the [flow-v1]() repo. This repo uses the same `admins` table and the same technology stack. Copy the logn process from this repo and get it working in this project.
 
-11. **Results**
+   A few things you will have to change:
+
+   - The Flow login allows logging in as a student or admin, you can remove the student parts.
+   - The dashboard for this project will just have two options: classes and results.
+   - The login page should be named `console.php`, not `index.php`.
+
+11. **Manage Classes**
+
+    You can look at any of the CRUD processes from flow, for example the create, read, update, and delete process for `skills`. You can copy these pages into this project, rename them to `console-class-list.php`, `console-class-add.pjp`, etc... And then start updating them to work with the classes table. 
+
+12. **Results**
+
+    There is already a results page names `results.php`. This currenlty dumps all the results onto one page. You can use this as a starting point, but you will need to make the following changes:
+
+    - Move this page into the admin console.
+    - Rename to `console-results.php`.
+    - You need an option to select which class you want to see the results for.
+    - MAke sure this page is not accessible without logging in.
     
-12. **Apply Design**
+14. **Apply Design**
 
     Apply the designs from step one!
 
-13. **About Colours** 
+15. **About Colours** 
 
     Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page.
 
