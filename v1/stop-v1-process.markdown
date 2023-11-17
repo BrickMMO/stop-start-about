@@ -128,24 +128,29 @@ CREATE TABLE `classes` (
     > Steps five through eleven have a project task in GitHub. Make sure to assign these tasks when starting. And then use these tasks to create your branch and a pull request when done.
 
 5. **Home Page**
+
+   The home page will display a list of classes and link to the survey page. This functionality is already there. For this setp just make sure everything is working and add any additional information and/or layout required. 
     
     > [!NOTE]  
     > At this point do not worry about the design. Just use basic HTML, black text, and Times New Roman. No CSS needed. 
 
-6. **Survey Page**
+7. **Survey Page**
 
+    The survey page will provide three textareas to allow participants to answer the three questions. Once submitted the answers are saved to a database and a thankyou message is displayed. This functionality is alreay there. You can add any additional layout and/or functionality.
 
-7. **Console**
+   You should add some basic server-side or client-side validation. 
 
-8. **Manage Classes**
+9. **Console**
 
-9. **Results**
+10. **Manage Classes**
+
+11. **Results**
     
-10. **Apply Design**
+12. **Apply Design**
 
     Apply the designs from step one!
 
-11. **About Colours** 
+13. **About Colours** 
 
     Update the [colours-about](https://github.com/BrickMMO/colours-about) Markdown! Add your names to the `v2.markdown` page.
 
