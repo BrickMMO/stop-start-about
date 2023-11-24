@@ -15,7 +15,7 @@ During phase one the basic survey structure will be created along with the admin
 For students developing this project you may follow this process:
 
 - [Process (Markdown)](v1/stop-start-v1-process.markdown)
-- [About PRocess (Markdown)](v1/about-v1-process.markdown)
+- [About Process (Markdown)](v1/about-v1-process.markdown)
 
 ### Contributors
 
